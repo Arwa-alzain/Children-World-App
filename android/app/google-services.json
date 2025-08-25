@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490831937136",
+    "project_id": "educationapp-c1cb9",
+    "storage_bucket": "educationapp-c1cb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490831937136:android:ae80c4be3c92af69ad3eb5",
+        "android_client_info": {
+          "package_name": "com.example.educational_for_children"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCtkW7QEBaqfJT5qFVFJc9IgW3WABMr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
